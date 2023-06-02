@@ -1,6 +1,7 @@
-### Hi my name is Olamigoke Akinrogunde👏
+### Hi there, my name is Olamigoke👏
 -------
-* i am a data enthusianst that will like to collaborate with other data professionals for upskilling 
+#### I'm a Data Analyst 
+* i am looking to collaborate with other data professionals for upskilling 
 
 <!--
 **Olamigoke12/Olamigoke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
