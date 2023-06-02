@@ -1,4 +1,5 @@
 ### Hi there, my name is Olamigoke👏
+www.linkedin.com/in/olamigoke-akinrogunde
 -------
 #### I'm a Data Analyst 
 * i am looking to collaborate with other data professionals for upskilling 
